@@ -1,0 +1,41 @@
+.container {
+  margin: 1em;
+  min-width: 20em;
+  max-width: 40em;
+  color:cornflowerblue
+}
+
+.task-meta {
+  color: rgb(42, 100, 52);
+  /* font-size: small; */
+  margin-top: -10px;
+  margin-bottom: 0.5em;
+}
+
+
+.task-meta img {
+  margin-right: 20px;
+  color:chocolate
+}
+
+form {
+  text-align: left;
+  margin: 10px 0px 10px 0px;
+}
+
+label {
+  font-weight: 700;
+  color: rgb(64, 112, 175);
+}
+
+/* */
+input {
+  margin-bottom: 20px;
+  color:rgb(42, 100, 52);
+}
+
+/*  This corresponds with the title of the tasks */
+.card {
+  margin: 10px 0px 15px 0px;
+  color:rgb(25, 196, 62)
+}
